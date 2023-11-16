@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 const Wrapper = styled.header`
   background-image: url('/header.jpeg');
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   height: 260px;
   padding: 60px 200px 0 200px;
